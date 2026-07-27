@@ -8,7 +8,6 @@ playsound minecraft:music_disc.creator master @a ~ ~ ~ 1 1
 title @a title {"text":"🏆 VICTORY","color":"green","bold":true}
 title @a subtitle {"text":"Survivors Win!","color":"gold"}
 
-# Reward all survivors
 give @a[tag=!juggernaut] minecraft:diamond_block 1
 give @a[tag=!juggernaut] minecraft:golden_apple 8
 give @a[tag=!juggernaut] minecraft:experience_bottle 16

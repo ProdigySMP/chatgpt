@@ -9,7 +9,6 @@ playsound minecraft:entity.warden.sonic_boom master @a ~ ~ ~ 1 0.8
 title @a title {"text":"🔥 THE JUGGERNAUT","color":"red","bold":true}
 title @a subtitle {"text":"A powerful foe has risen!","color":"gold"}
 
-# Glow
 effect give @a[tag=juggernaut] minecraft:glowing 999999 0 true
 team add juggernaut
 team add survivors

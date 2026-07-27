@@ -8,7 +8,6 @@ playsound minecraft:entity.warden.heartbeat master @a ~ ~ ~ 1 0.5
 title @a title {"text":"👑 VICTORY","color":"red","bold":true}
 title @a subtitle {"text":"Juggernaut Wins!","color":"gold"}
 
-# Reward Juggernaut
 give @a[tag=juggernaut] minecraft:netherite_ingot 1
 give @a[tag=juggernaut] minecraft:enchanted_golden_apple 2
 
