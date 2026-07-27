@@ -1,0 +1,1 @@
+playsound minecraft:entity.warden.sonic_boom master @a ~ ~ ~ 1 0.8

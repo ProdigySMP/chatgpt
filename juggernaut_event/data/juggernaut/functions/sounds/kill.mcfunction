@@ -1,0 +1,1 @@
+playsound minecraft:entity.wither.spawn master @a ~ ~ ~ 1 0.8
