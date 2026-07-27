@@ -1,4 +1,4 @@
-tellraw @a ["",{"text":"⚔️ JUGGERNAUT EVENT STARTING!","color":"red","bold":true}]
+tellraw @a ["",{"text":"[JUGGERNAUT EVENT STARTING!]","color":"red","bold":true}]
 tellraw @a ["",{"text":"A player will be chosen in 60 seconds!","color":"gold"}]
 playsound minecraft:music_disc.pigstep master @a ~ ~ ~ 1 1
 

@@ -7,4 +7,4 @@ scoreboard players reset @a jg_kills
 scoreboard players reset @a jg_juggernaut
 scoreboard players reset @a jg_survive
 
-tellraw @a ["",{"text":"✅ Event reset complete","color":"green"}]
+tellraw @a ["",{"text":"[CHECK] Event reset complete","color":"green"}]

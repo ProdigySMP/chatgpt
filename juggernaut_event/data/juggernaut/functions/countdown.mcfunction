@@ -1,4 +1,4 @@
-execute if score @a jg_timer matches 1.. run tellraw @a ["",{"text":"⏱️ Juggernaut in ","color":"yellow"},{"score":{"name":"@a","objective":"jg_timer"},"color":"red","bold":true},{"text":" seconds...","color":"yellow"}]
+execute if score @a jg_timer matches 1.. run tellraw @a ["",{"text":"[COUNTDOWN] Juggernaut in ","color":"yellow"},{"score":{"name":"@a","objective":"jg_timer"},"color":"red","bold":true},{"text":" seconds...","color":"yellow"}]
 
 execute if score @a jg_timer matches 10.. run playsound minecraft:block.note_block.pling master @a ~ ~ ~ 1 0.5
 execute if score @a jg_timer matches 5..6 run playsound minecraft:block.note_block.pling master @a ~ ~ ~ 1 1
